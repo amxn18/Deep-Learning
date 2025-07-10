@@ -1,4 +1,4 @@
-# ⚫ Word Embedding in NLP – Conceptual README
+# Word Embedding in NLP – Conceptual README
 
 ## 1️⃣ Sentences as Input
 The process begins with a list of raw natural language sentences. These sentences represent simple human-readable input that needs to be processed into numerical form so it can be understood by a machine learning model.
